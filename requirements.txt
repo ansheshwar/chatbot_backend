@@ -1,0 +1,5 @@
+flask 
+langchain 
+python-dotenv 
+langchain-google-genai
+ngrok
